@@ -1,5 +1,13 @@
 /*MainPage*/
+
+
 body {
+	text-align: center;
+}
+
+
+
+#body {
     text-align: center;
     background-color: gray;
 }
@@ -58,7 +66,7 @@ body {
     padding: 0;
 }
 
-footer {
+#footer {
     position: absolute;
     width: 50%;
     left: 25%;
